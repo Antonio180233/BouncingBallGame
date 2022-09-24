@@ -1,0 +1,18 @@
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.exe
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.deps.json
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.runtimeconfig.json
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.runtimeconfig.dev.json
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.dll
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\ref\Bouncing ball.dll
+C:\Users\52656\source\repos\Bouncing ball\bin\Debug\net5.0-windows\Bouncing ball.pdb
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.csprojAssemblyReference.cache
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing_ball.Form1.resources
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.csproj.GenerateResource.cache
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.AssemblyInfoInputs.cache
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.AssemblyInfo.cs
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.csproj.CoreCompileInputs.cache
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.dll
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\ref\Bouncing ball.dll
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.pdb
+C:\Users\52656\source\repos\Bouncing ball\obj\Debug\net5.0-windows\Bouncing ball.genruntimeconfig.cache
